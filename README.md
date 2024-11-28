@@ -1,5 +1,5 @@
 # About Me
-I am currently learning C++ , i like to work on my roblox games.
+I am currently learning Python , i like to work on my roblox games.
 
 ## Some pictures cuz why not
 ![Noodlebacon](https://github.com/user-attachments/assets/5a4427b6-5156-4863-9d16-a909efe6daaa)
